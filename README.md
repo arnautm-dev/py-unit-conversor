@@ -68,7 +68,7 @@ python conversor-unitats.py
 
 ### Opció 2: Des de PowerShell
 ```powershell
-cd "C:\Users\Usuari\Documents\ARNAU\01- Educació\02_Programació\unit-conversor"
+cd "C:\Users\Usuari\Documents\unit-conversor"
 python conversor-unitats.py
 ```
 
